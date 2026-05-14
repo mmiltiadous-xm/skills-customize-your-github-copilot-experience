@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "fastapi-validation-error-handling",
+      "title": "FastAPI Input Validation and Error Handling",
+      "description": "Build a beginner-friendly FastAPI API with validated input models and clear HTTP error responses.",
+      "path": "assignments/fastapi-validation-error-handling",
+      "dueDate": "2026-05-21",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
